@@ -27,4 +27,4 @@ The IDE was based on the same Processing/Wiring platform as used in Arduino IDE.
 ## Rendering the HTML files
   GitHub supports only storing text information.  The included html files can be rendered with a semi standard prefix, such as
   * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103ProductList.html
-  * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103NameStructure.html
+  * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103ProductName.html
