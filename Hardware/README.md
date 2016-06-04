@@ -21,10 +21,16 @@ The IDE was based on the same Processing/Wiring platform as used in Arduino IDE.
   * High-density performance line, STM32F103xC, STM32F103xD, and STM32F103xE
   * XL-density performance line, STM32F103xF and STM32F103xG
 
-  This GitHub will be focused only on medium deinsity and high density products due to available cost effective development tools.  
-  The encoding of the ST product names is shown in STM32F103NameStructure.html.
+ This GitHub will be focused only on medium deinsity and high density products due to available cost effective development tools.  
+ The encoding of the ST product names is shown in STM32F103NameStructure.html.
 
 ## Rendering the HTML files
   GitHub supports only storing text information.  The included html files can be rendered with a semi standard prefix, such as
   * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103ProductList.html
   * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103ProductName.html
+  * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103_High64.html
+  * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103_High100.html
+  * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103_High144.html
+  * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103_Med48.html
+  * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103_Med64.html
+  * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103_Med100.html
