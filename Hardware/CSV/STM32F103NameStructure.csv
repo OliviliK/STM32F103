@@ -1,0 +1,14 @@
+STM32F103,X,X,XX,,,,FLASH,RAM
+,|,|,|,,,,,
+,|,|,\,--,T6,Low Profile Quad Flat Package (LQFP),,
+,|,|,,,,,,
+,|,\,---,--,8,Medium Density,64,20
+,|,,,,B,Medium Density,128,20
+,|,,,,C,High Density,256,48
+,|,,,,D,High Density,384,64
+,|,,,,E,High Density,512,64
+,|,,,,,,,
+,\,---,---,--,C,48 Pin,,
+,,,,,R,64 Pin,,
+,,,,,V,100 Pin,,
+,,,,,Z,144 Pin,,
