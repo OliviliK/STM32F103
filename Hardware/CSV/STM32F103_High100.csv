@@ -8,7 +8,7 @@ LQ100,Pin Name,Type,Level,ADC,DAC,TIM,I2C,USART,UART,SPI,CAN,USB,SWD,FSMC,SDIO,O
 7,PC13-TAMPERRTC,I/O,-,,,,,,,,,,,,,Tamper
 8,PC14-OSC32_IN,I/O,-,,,,,,,,,,,,,OSC32_IN
 9,PC15-OSC32_OUT,I/O,-,,,,,,,,,,,,,OSC32_OUT
-10,VSS_5,S,VSS_5,,,,,,,,,,,A6,,
+10,VSS_5,S,VSS_5,,,,,,,,,,,,,
 11,VDD_5,S,VDD_5,,,,,,,,,,,,,
 12,OSC_IN,I,-,,,,,,,,,,,,,OSC_IN
 13,OSC_OUT,O,-,,,,,,,,,,,,,OSC_OUT
