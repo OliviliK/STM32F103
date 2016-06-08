@@ -14,7 +14,7 @@ LQ144,Pin Name,Type,Level,ADC,DAC,TIM,I2C,USART,UART,SPI,CAN,USB,SWD,FSMC,SDIO,O
 13,PF3,I/O,FT,,,,,,,,,,,A3,,
 14,PF4,I/O,FT,,,,,,,,,,,A4,,
 15,PF5,I/O,FT,,,,,,,,,,,A5,,
-16,VSS_5,S,VSS_5,,,,,,,,,,,A6,,
+16,VSS_5,S,VSS_5,,,,,,,,,,,,,
 17,VDD_5,S,VDD_5,,,,,,,,,,,,,
 18,PF6,I/O,-,ADC3.4,,,,,,,,,,NIORD,,
 19,PF7,I/O,-,ADC3.5,,,,,,,,,,NREG,,
