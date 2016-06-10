@@ -1,9 +1,7 @@
 VQ36,Pin Name,Type,Level,ADC,TIM,I2C,USART,SPI,CAN,USB,SWD,Othr
 1,VDD_3,S,VDD_3,,,,,,,,,
-2,OSC_IN,I,-,,,,,,,,,"OSC_IN,PD0"
-2,PD0,I/O,FT,,,,,,CANRX,,,
-3,OSC_OUT,O,-,,,,,,,,,"OSC_OUT,PD1"
-3,PD1,I/O,FT,,,,,,CANTX,,,
+2,"OSC_IN,PD0",I/O,FT,,,,,,CANRX,,,"OSC_IN,PD0"
+3,"OSC_OUT,PD1",I/O,FT,,,,,,CANTX,,,"OSC_OUT,PD1"
 4,NRST,I/O,-,,,,,,,,,NRST
 5,VSSA,S,VSSA,,,,,,,,,
 6,VDDA,S,VDDA,,,,,,,,,
