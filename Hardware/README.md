@@ -31,6 +31,7 @@ The IDE was based on the same Processing/Wiring platform as used in Arduino IDE.
   * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103_High64.html
   * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103_High100.html
   * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103_High144.html
+  * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103_Med36.html
   * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103_Med48.html
   * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103_Med64.html
   * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103_Med100.html
