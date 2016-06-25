@@ -18,7 +18,7 @@ The challenge with Taobao is that all the descriptions are in Chinese and the pr
 Many boards are without any indications of board names or manufacturing origins.  Here are some of the identified manufacturers
   * [HAOYU Electronics](http://www.hotmcu.com), I have been using their lightweight HY Tiny board, but they have several other F103 products
   * [VCC-GND](http://www.vcc-gnd.com), I am very pleased for their $2 dollar board, that is often known as Blue Pill.  Also their larger VC and ZE boards can be recommended
-  * [Shenzhen LC Technology Co](http://www.chinalctech.com/index.php?_m=mod_product&_a=prdlist&cap_id=72), I have mixed feeling about thier products.  They seem to have a high functionality, but the manufacturing quality is a potential issue.
+  * [Shenzhen LC Technology Co](http://www.chinalctech.com/index.php?_m=mod_product&_a=prdlist&cap_id=72), I have mixed feeling about their products.  They seem to have a high functionality, but the manufacturing quality is a potential issue.
   * **Baite**, I don't have their web address.  They are the manufacturer of a very high quality Maple Mini clone.
   * [STM](st.com), I have a large number of their discovery and nucleo boards. In this repository, only the Nucleo-F103RB is relevant
   * **ME**, I don't have their web address.  I like the boards with the letters ME in a circle.  They could be the manufacturer or designer of very nice F103 boards.
@@ -45,6 +45,4 @@ Here is a list of F103 boards, I have used so far.
 |**[LC Tech ZE](https://github.com/OliviliK/STM32F103/wiki/F103ZE)** | LC Technology | $12.99  | STM32F103ZET6 | 72 | 512 | 64 | 144 | 112 | JTAG | hdr |  |  | 0.47x1.95x2.91 | 26 | 4 holes |
 |**[VCC-GND ZE](https://github.com/OliviliK/STM32F103/wiki/F103ZE)** | VCC-GND | $14.72  | STM32F103ZET6 | 72 | 512 | 64 | 144 | 112 | hdr |  |  |  | 0.44x1.86x2.38 | 12 |  |
 
-
-  
-  
+The reason of highlighting SWD in this table, is that I am using [EmBitz](EmBitz.org) IDE with ST-Link connection to the target systems.
