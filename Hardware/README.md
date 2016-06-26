@@ -24,6 +24,13 @@ The IDE was based on the same Processing/Wiring platform as used in Arduino IDE.
  This GitHub will be focused only on medium deinsity and high density products due to available cost effective development tools.  
  The encoding of the ST product names is shown in STM32F103NameStructure.html.
 
+## ARM Architectures
+
+Cortex M3 is based on *ARMv7-M* architecture and as such supports
+ * SysTick Timer for system level timing interrupts
+ * Data Watchpoint and Trace (**DWT**) for system level cycle counting
+ * Bit-banding for direct accessing SRAM and peripheral register bits. This is an optional feature and it is supported in all F103 processors.  It is optional also in Cortex M4, but is not supported in Cortex M7.
+
 ## Rendering the HTML files
   GitHub supports only storing text information.  The included html files can be rendered with a semi standard prefix, such as
   * http://htmlpreview.github.io/?https://github.com/OliviliK/STM32F103/blob/master/Hardware/STM32F103ProductList.html
