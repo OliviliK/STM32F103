@@ -26,9 +26,9 @@ The IDE was based on the same Processing/Wiring platform as used in Arduino IDE.
 
 ## ARM Architectures
 
-Cortex M3 is based on *ARMv7-M* architecture and as such supports
+Cortex M3 is based on **ARMv7-M** architecture and as such supports
  * SysTick Timer for system level timing interrupts
- * Data Watchpoint and Trace (**DWT**) for system level cycle counting
+ * Data Watchpoint and Trace (**DWT**) registers for system level cycle counting
  * Bit-banding for direct accessing SRAM and peripheral register bits. This is an optional feature and it is supported in all F103 processors.  It is optional also in Cortex M4, but is not supported in Cortex M7.
 
 ## Rendering the HTML files
