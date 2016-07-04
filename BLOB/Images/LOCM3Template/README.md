@@ -3,7 +3,7 @@
 This directory contains pictures used in the Wiki tutorial to create a user Template for LinOpenCM3 usage with EmBitz IDE.
 
 Here are some related links
-  * [Tutorial Step 2]()
+  * [Tutorial Step 2](https://github.com/OliviliK/STM32F103/wiki/Tutorial2_LOCM3Template)
   * [LibOpenCM3 GitHub](https://github.com/libopencm3/libopencm3)
   * [EmBitz](http://www.emblocks.org/web/)
   * [LibOPenCM3 Installation for Windows 10](http://olliesworkshops.blogspot.com/2016/07/libopencm3-installation.html)
